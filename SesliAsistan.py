@@ -5,8 +5,6 @@ from playsound import playsound
 import speech_recognition as sr
 import pyaudio
 import os
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 import ArduinoKodlari
 
 r=sr.Recognizer()
